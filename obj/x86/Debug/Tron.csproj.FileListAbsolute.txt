@@ -1,0 +1,8 @@
+C:\Users\Błażej Dyrda\Desktop\Tron\bin\Debug\Tron.exe
+C:\Users\Błażej Dyrda\Desktop\Tron\bin\Debug\Tron.pdb
+C:\Users\Błażej Dyrda\Desktop\Tron\obj\x86\Debug\Tron.csprojResolveAssemblyReference.cache
+C:\Users\Błażej Dyrda\Desktop\Tron\obj\x86\Debug\Tron.Form1.resources
+C:\Users\Błażej Dyrda\Desktop\Tron\obj\x86\Debug\Tron.Properties.Resources.resources
+C:\Users\Błażej Dyrda\Desktop\Tron\obj\x86\Debug\Tron.csproj.GenerateResource.Cache
+C:\Users\Błażej Dyrda\Desktop\Tron\obj\x86\Debug\Tron.exe
+C:\Users\Błażej Dyrda\Desktop\Tron\obj\x86\Debug\Tron.pdb
